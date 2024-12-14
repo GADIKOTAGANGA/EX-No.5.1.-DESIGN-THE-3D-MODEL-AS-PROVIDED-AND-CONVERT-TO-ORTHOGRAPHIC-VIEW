@@ -1,4 +1,4 @@
-![Screenshot (113)](https://github.com/user-attachments/assets/fa40d3ba-99c3-4321-af7a-4cb927cb8e93)
+
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
